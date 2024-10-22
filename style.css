@@ -1,0 +1,55 @@
+body {
+	background-color: rgb(230, 230, 230);
+	color: rgb(30,30,30);
+}
+
+h1 {
+	color: darkorange;
+	font-family: helvetica;
+	font-weight: 400;
+	letter-spacing: : 10px;
+	font-size: 32px;
+}
+h2 {
+color: mediumpurple;
+	font-family: arial nova;
+	font-weight: 400;
+	letter-spacing: : 10px;
+	font-size: 32px;
+}
+a:hover {
+	color : red
+}
+
+
+/* custom design */
+.container {
+	widht : 700px;
+	margin: 30px;
+}
+.card-white {
+	background-color: white;
+	padding: 40px;
+	box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.1);
+	border-radius: 4px;
+	margin: 20px 0px;
+	text-align: center;
+}
+
+.img-circle {
+	border-radius: 50%;
+}
+
+.btn-blue {
+	background-color: skyblue;
+	color: white;
+	padding: 10px 15px;
+}
+
+.list-inline {
+	list-style: non;
+	padding-left: 0px;
+}
+#introduction p {
+	margin-bottom: 40px;
+}
